@@ -1,0 +1,7 @@
+
+#Consumer keys below 2
+api_key = 'MnYGqwr5bielOmBNomvzzSsmd'
+api_secretKey = 'nopkuReuWnK6anNDzA0OlCVb7qe0PKjalfkl92jhWBSoV5qDi2'
+api_bearerToken = 'AAAAAAAAAAAAAAAAAAAAAKxCjwEAAAAA86grZNNWh%2F7H1eg%2B3H3zLdJFzcA%3DpAULbdJjG3CgP3tNWOPCqwUuBiGEvY7sH97mu3f5kNYcd7rFLT'
+access_token = '816950453124464640-rVg7obI2s5Go3iYAcToScotHK8d8NI2'
+access_token_secret = 'oIKXfzPuxfyZbYr1NfJ4840HCULqKQZgtXTLDNtXrNloB'
